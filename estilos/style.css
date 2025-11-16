@@ -34,7 +34,8 @@
    top: 80px;
    left: 22px;
    width: 266px;
-   height: 470px;
+   height: 500px;
+   background-size: cover;
  }
 
  section#redes-sociais{
